@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567699900607",
+    "firebase_url": "https://memeapp-e6b89.firebaseio.com",
+    "project_id": "memeapp-e6b89",
+    "storage_bucket": "memeapp-e6b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567699900607:android:1f7c75a181982028",
+        "android_client_info": {
+          "package_name": "com.etheral.memeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567699900607-6nvi8tgtr3gdjltah9egb91kvjfr12gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDST-Y24R78obNh8-w1-Sis3oPndYAJzdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567699900607-6nvi8tgtr3gdjltah9egb91kvjfr12gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
